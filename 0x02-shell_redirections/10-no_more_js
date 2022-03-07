@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name [D[D[D[D[D[D[D[D[D[D[D[D[[Cfin[C[C[C[C[C[C[C[C[C '*.js' -type f -delete
