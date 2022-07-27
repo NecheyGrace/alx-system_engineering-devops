@@ -36,4 +36,3 @@ else
   printf 'Usage: %s {start|stop|restart}\n' "${PROGRAM}"
   exit 1
 fi
-
