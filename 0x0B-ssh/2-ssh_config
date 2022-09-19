@@ -1,6 +1,6 @@
-
 #!/usr/bin/env bash
 # update ssh config
+
 Host school
 	Hostname 18.207.251.119
 	User ubuntu
